@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="Sports", T sports
-https://edge2.roarzone.net:8447/roarzone/edge5/t-sports-hd/tracks-v1a1/2026/05/29/18/29/24-05000.ts?token=cd088cf3fe48b7e8b9bba181734597a899e83b4a-e1e7fbb806299ba2965b49cc25ca3ebc-1780089483-1780078683
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="euro_sports_hd" tvg-name="Euro Sport HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" tvg-chno="euro_sports_hd" group-title="Sports", Euro Sport HD
 https://mflixott.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
