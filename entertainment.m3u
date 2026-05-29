@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="Entertainment", Zee Bangla
-https://mflixott.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno="sonyaath" group-title="Entertainment", Sony Aath
 https://mflixott.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
